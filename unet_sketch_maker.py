@@ -32,8 +32,8 @@ print("Using device:", device)
 # ============================================================
 
 # >>>>> EDIT THESE TWO LINES WITH YOUR REAL CREDENTIALS <<<<<
-KAGGLE_USERNAME = "nolkooo"   # e.g. "johnsmith"
-KAGGLE_KEY = "KGAT_651acdc230e0d503c8d311a39fef7739"             # e.g. ""
+KAGGLE_USERNAME = "x"   # e.g. "johnsmith"
+KAGGLE_KEY = "x"             # e.g. ""
 
 # DO NOT print them
 os.makedirs("/root/.kaggle", exist_ok=True)
